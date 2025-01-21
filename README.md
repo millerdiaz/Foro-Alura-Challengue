@@ -1,7 +1,7 @@
 # Foro Alura Challengue
 
 ## Descripción del Proyecto
-Este proyecto es un foro desarrollado como parte del reto "Challengue Alura Latam". Su principal objetivo es permitir la creación, visualización, actualización y eliminación de tópicos, cursos, perfiles, usuarios y respuestas, con verificación mediante tokens JWT para garantizar la seguridad.
+Este proyecto es un foro desarrollado como parte del desafío "Challengue Alura Latam", enfocado específicamente en la creación de un foro funcional. Su principal objetivo es permitir la gestión completa de tópicos, cursos, perfiles, usuarios y respuestas, con un sistema de verificación mediante tokens JWT que garantiza la seguridad.
 
 ## Funcionalidades
 - CRUD completo para tópicos, cursos, perfiles, usuarios y respuestas.
